@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spring Boot 添加日志配置 (一) "
-date:   2018-01-06 14:23:00 +0800
+date:   2018-03-09 14:23:00 +0800
 categories: Spring Boot log configuration
 tag: tools
 ---
