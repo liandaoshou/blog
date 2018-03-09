@@ -3,7 +3,7 @@ layout: post
 title:  "Spring Boot 添加日志配置 (一) "
 date:   2018-03-09 14:23:00 +0800
 categories: Spring Boot log configuration
-tag: tools
+tag: Spring Boot
 ---
 #Spring Boot 添加日志配置 (一) 
 @(Spring Boot)[log|slf4j|logback] 
