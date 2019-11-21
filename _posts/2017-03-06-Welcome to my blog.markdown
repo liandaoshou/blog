@@ -6,4 +6,4 @@ categories: Welcome to my blog
 tag: 随手记
 ---
 
-欢迎来到我的个人博客，我的github: liandaoshou
+欢迎来到我的个人博客，我的github: liandaoshou [github](https://github.com/liandaoshou/)
