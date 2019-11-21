@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Java基础 （环境配置与hello world）"
+title:  "Java基础一（环境配置与hello world）"
 date:   2017-03-08 10:08:12 +0800
 categories: Welcome to my blog
 tag: Java
