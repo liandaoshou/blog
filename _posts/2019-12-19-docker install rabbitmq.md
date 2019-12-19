@@ -66,7 +66,7 @@ f890fbe22ed1c91e6ed8b3617345399070781959d62d3d18f4c881b618fcebbc
 ```aidl
 docker start rabbitmq
 docker stop rabbitmq
-docker restart rabbit mq
+docker restart rabbitmq
 ```
 
 ### 控制台检查
@@ -75,4 +75,6 @@ docker restart rabbit mq
 guest：guest
 
 ![控制台图预览1](/images/posts/20191219/01.png)<br>
+
+可以愉快的玩耍了！
 
