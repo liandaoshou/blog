@@ -106,7 +106,7 @@ NIO 中的 Channel 的主要实现有：
 
 ## buffer
 
-![buffer](/images/posts/20191219/01.png)<br>
+![buffer](/images/posts/20170312/01.png)<br>
 
 Buffer，故名思意，缓冲区，实际上是一个容器，是一个连续数组。Channel 提供从文件、
 网络读取数据的渠道，但是读取或写入的数据都必须经由 Buffer。
