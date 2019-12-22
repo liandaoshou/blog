@@ -5,15 +5,21 @@ date:   2018-01-06 14:23:00 +0800
 categories: Eclipse Shortcut Key
 tag: tools
 ---
+
 ### java智能提示
+
 1. 打开Eclipse，选择打开" Window － Preferences"。
 2. 在目录树上选择"Java－Editor－Content Assist"，在右侧的"Auto-Activation"找到"Auto Activation triggers for java"选项。默认触发代码提示的就是"."这个符号。
 3. 在"Auto Activation triggers for java"选项中，将"."更改：.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+
 ### XML智能提示
+
 1. 打开Eclipse，选择打开" Window － Preferences"。
 2. 在目录树上选择"XML－Editor－Content Assist"，在右侧的"Auto-Activation"找到"Prompt when these characters are inserted "选项。
 3. 在"Prompt when these characters are inserted"选项中，将"<=: ，"更改：<=:.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVW(,
+
 ### 快捷键
+
 1. Ctrl+Space 说明:内容助理。提供对方法,变量,参数,javadoc等得提示,应运在多种场合,总之需要提示的时候可先按此快捷键。注:避免输入法的切换设置与此设置冲突
 2. Ctrl+Shift+Space 说明:变量提示
 3. Ctrl+/ 说明:添加/消除//注释,在eclipse2.0中,消除注释为Ctrl+\
