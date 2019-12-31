@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Java 后台线程 Daemon
-"
+title:  "Java 后台线程 Daemon"
 date:   2017-03-17 09:10:22 +0800
 categories: Java Daemon
 tag: Java
