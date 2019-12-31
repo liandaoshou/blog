@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eclipse 快捷键"
+title:  "IDEA 快捷键"
 date:   2018-01-07 11:07:00 +0800
 categories: IDEA Shortcut Key
 tag: tools
