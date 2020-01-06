@@ -21,5 +21,5 @@ JVM 按随机就近原则分配锁的机制称为不公平锁，ReentrantLock �
 1. ReentrantLock 通过方法lock()与unlock()来进行加锁与解锁操作，与synchronized会被JVM自动解锁机制不同，ReentrantLock加锁后需要手动进行解锁。
 为了避免程序出现异常无法正常解锁的情况，使用ReentrantLock必须在finally控制模块中进行解锁操作。
 
-2. ReentrantLock相比synchronized优势是可以中断，公平锁，多个锁
+2. ReentrantLock相比synchronized优势是可以中断，公平锁，多个锁。
 
