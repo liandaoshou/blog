@@ -35,11 +35,15 @@ join() 方法，等待其他线程终止，在当前线程中调用一个线程�
 很多情况下，主线程生成并启动了子线程，需要用到子线程返回的结果，也就是需要主线程需要在子线程结束后再结束，这时候就要用到 join() 方法。
 
 ```java
-    System.out.println(Thread.currentThread().getName() + "线程运行开始!");
-    Thread6 thread1 = new Thread6();
-    thread1.setName("线程 B");
-    thread1.join();
-    System.out.println("这时 thread1 执行完毕之后才能执行主线程");
+public class Test {
+    public static void main(String[] args){
+          System.out.println(Thread.currentThread().getName() + "线程运行开始!");
+          Thread6 thread1 = new Thread6();
+          thread1.setName("线程 B");
+          thread1.join();
+          System.out.println("这时 thread1 执行完毕之后才能执行主线程");
+    }
+}
 ```
 
 ### 线程唤醒 （notify）
