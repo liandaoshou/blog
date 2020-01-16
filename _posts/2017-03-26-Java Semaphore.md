@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Semaphore（信号量-控制同时访问的线程个数）"
+title:  "Java Semaphore（信号量-控制同时访问的线程个数）"
 date:   2017-03-26 15:23:00 +0800
 categories: Java Semaphore
 tag: Java
